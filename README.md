@@ -11,10 +11,10 @@ This is pure  C++ Program which tik_tac_toc game source. This program is only fo
 
 # Contact
 
-Author: Nikhil D.
+Author: Mahek c.
 
-GitHub: nikhildobariya98
+GitHub: MAHEKCHOTHANI02
 
-LinkedIn: Nikhil Dobariya
+LinkedIn: Mahek Chothani
 
-Email: dobariyanikhil98@gmail.com
+Email: chothanimahek1402@gmail.com
